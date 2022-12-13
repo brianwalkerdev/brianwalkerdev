@@ -23,6 +23,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get a fast LEMP WordPress Server with OneinStack | Brian Walker](https://brianwalkerdev.medium.com/how-to-get-a-fast-lemp-wordpress-server-with-oneinstack-brian-walker-7e91bd7eb5e8?source=rss-ab9f53011608------2)
+- [WordPress Hosting on AWS is an Excellent Choice | Brian Walker](https://brianwalkerdev.medium.com/wordpress-hosting-on-aws-is-an-excellent-choice-brian-walker-57df2813e660?source=rss-ab9f53011608------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
