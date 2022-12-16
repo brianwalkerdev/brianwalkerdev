@@ -23,7 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Web developers: Learn user experience/user interface design and become a unicorn](https://brianwalkerdev.medium.com/web-developers-learn-user-experience-user-interface-design-and-become-a-unicorn-ded912b38ee3?source=rss-ab9f53011608------2)
+- [Web developers: Learn user experience/user interface design and become a unicorn](https://bootcamp.uxdesign.cc/web-developers-learn-user-experience-user-interface-design-and-become-a-unicorn-ded912b38ee3?source=rss-ab9f53011608------2)
 - [How to get a fast LEMP WordPress Server with OneinStack | Brian Walker](https://brianwalkerdev.medium.com/how-to-get-a-fast-lemp-wordpress-server-with-oneinstack-brian-walker-7e91bd7eb5e8?source=rss-ab9f53011608------2)
 - [WordPress Hosting on AWS is an Excellent Choice | Brian Walker](https://brianwalkerdev.medium.com/wordpress-hosting-on-aws-is-an-excellent-choice-brian-walker-57df2813e660?source=rss-ab9f53011608------2)
 <!-- BLOG-POST-LIST:END -->
