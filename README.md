@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Website That Converts](https://brianwalkerdev.medium.com/how-to-create-a-website-that-converts-8abdb50555ec?source=rss-ab9f53011608------2)
 - [How To Be A Digital Nomad In Tech &amp; Earn Six Figures Online &lpar;$$$&rpar;](https://brianwalkerdev.medium.com/how-to-be-a-digital-nomad-in-tech-earn-six-figures-online-c5fe99f038e7?source=rss-ab9f53011608------2)
 - [Web developers: Learn user experience/user interface design and become a unicorn](https://bootcamp.uxdesign.cc/web-developers-learn-user-experience-user-interface-design-and-become-a-unicorn-ded912b38ee3?source=rss-ab9f53011608------2)
 - [How to get a fast LEMP WordPress Server with OneinStack | Brian Walker](https://brianwalkerdev.medium.com/how-to-get-a-fast-lemp-wordpress-server-with-oneinstack-brian-walker-7e91bd7eb5e8?source=rss-ab9f53011608------2)
-- [WordPress Hosting on AWS is an Excellent Choice | Brian Walker](https://brianwalkerdev.medium.com/wordpress-hosting-on-aws-is-an-excellent-choice-brian-walker-57df2813e660?source=rss-ab9f53011608------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
