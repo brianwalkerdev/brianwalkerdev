@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Learn JavaScript And Be an Ace Programmer In 90 Days](https://brianwalkerdev.medium.com/how-to-learn-javascript-and-be-an-ace-programmer-in-90-days-fe97e1aceb43?source=rss-ab9f53011608------2)
 - [How to Use the DOM &lpar;Document Object Model&rpar; in Javascript](https://brianwalkerdev.medium.com/how-to-use-the-dom-document-object-model-in-javascript-ce4344197d69?source=rss-ab9f53011608------2)
 - [How to Create a Website That Converts](https://brianwalkerdev.medium.com/how-to-create-a-website-that-converts-8abdb50555ec?source=rss-ab9f53011608------2)
 - [How To Be A Digital Nomad In Tech &amp; Earn Six Figures Online &lpar;$$$&rpar;](https://brianwalkerdev.medium.com/how-to-be-a-digital-nomad-in-tech-earn-six-figures-online-c5fe99f038e7?source=rss-ab9f53011608------2)
-- [Web developers: Learn user experience/user interface design and become a unicorn](https://bootcamp.uxdesign.cc/web-developers-learn-user-experience-user-interface-design-and-become-a-unicorn-ded912b38ee3?source=rss-ab9f53011608------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
