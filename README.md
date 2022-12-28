@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **admin@brianwalker.dev**
 
-- 📄 Know about my experiences [https://brianwalker.dev/wp-content/uploads/2022/12/Brian_Walker_Resume.pdf](https://brianwalker.dev/wp-content/uploads/2022/12/Brian_Walker_Resume.pdf)
+- 📄 Know about my experiences [https://brianwalker.dev/wp-content/uploads/2022/12/Brian_Walker_Resume.pdf](https://brianwalker.dev/wp-content/uploads/2022/12/Brian-Walker-Resume.pdf)
 
 - ⚡ Fun fact **I love Marvel comics and movies**
 
